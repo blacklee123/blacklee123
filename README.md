@@ -3,7 +3,7 @@ I‘m
 - bilibili终身大会员
 - 测试开发工程师
 - [QAQ](https://github.com/qaq-public)作者
-- I’m currently working on pandadagames
+- currently working on pandadagames
 - 网易游戏、莉莉丝游戏、哔哩哔哩游戏前员工
 - a fan of [antfu](https://github.com/antfu)
 
