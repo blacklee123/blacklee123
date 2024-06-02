@@ -5,6 +5,7 @@ I‘m
 - [QAQ](https://github.com/qaq-public)作者
 - I’m currently working on pandadagames
 - 网易游戏、莉莉丝游戏、哔哩哔哩游戏前员工
+- a fan of [antfu](https://github.com/antfu)
 
 <!--
 **blacklee123/blacklee123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
