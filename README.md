@@ -6,8 +6,8 @@ I‘m
 - a fan of [antfu](https://github.com/antfu)
 
 ## 小工具
-excel diff: https://github.com/blacklee123/excel-diff
-apk/ipa info parser: https://github.com/blacklee123/apk-info-parse
+- excel diff: https://github.com/blacklee123/excel-diff
+- apk/ipa info parser: https://github.com/blacklee123/apk-info-parse
 
 <!--
 **blacklee123/blacklee123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
