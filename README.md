@@ -3,12 +3,11 @@ I‘m
 - bilibili终身大会员
 - 测试开发工程师
 - [QAQ](https://github.com/qaq-public)作者
-- currently working on happyelements
-- 网易游戏、莉莉丝游戏、哔哩哔哩游戏前员工
 - a fan of [antfu](https://github.com/antfu)
 
 ## 小工具
-excel-diff https://github.com/blacklee123/excel-diff
+excel diff: https://github.com/blacklee123/excel-diff
+apk/ipa info parser: https://github.com/blacklee123/apk-info-parse
 
 <!--
 **blacklee123/blacklee123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
